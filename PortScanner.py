@@ -1,3 +1,6 @@
+#This is a simple port scanner built in python. This will show open ports on given IP address from port 1-9999. 
+#*DISCLAIMER* This code was build for practice. This code is not be used for any malicious activity. I am not responsible for use or recreation of this code.
+
 import socket
 import subprocess
 import sys
